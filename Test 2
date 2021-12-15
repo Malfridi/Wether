@@ -1,5 +1,6 @@
 {
-  MarkerInfo:[   
+  "MarkerInfo":
+  [   
     {
       "side": 1,
       "height": 74.0,
@@ -7,4 +8,4 @@
       "width": 75.0
     }
   ]
-  }
+}
