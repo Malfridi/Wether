@@ -1,0 +1,25 @@
+{
+  "MarkerInfo":
+  [   
+    {
+      "id":10,
+      "side": 1,
+      "height": 74.0,
+      "x": 698.0, 
+      "y": 418.25,
+      "xgrid": 2,
+      "ygrid": 4,
+      "width": 75.0
+    },
+   {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "xgrid": 5,
+      "ygrid": 9,
+      "width": 75.0
+    },
+  ]
+}
