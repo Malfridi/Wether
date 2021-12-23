@@ -3,10 +3,18 @@
     "lon": -122.08,
     "lat": 37.39
   },
-  "weather": [
+  "PB1": [
     {
       "id": 800,
       "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+   "PB2": [
+    {
+      "id": 500,
+      "main": "Blue",
       "description": "clear sky",
       "icon": "01d"
     }
