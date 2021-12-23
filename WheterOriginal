@@ -1,22 +1,26 @@
 {
-  "coord": {
-    "lon": -122.08,
-    "lat": 37.39
-  },
   "PB1": [
     {
-      "id": 800,
-      "main": "Clear",
-      "description": "clear sky",
-      "icon": "01d"
+      "id":10,
+      "side": 1,
+      "height": 74.0,
+      "x": 698.0, 
+      "y": 418.25,
+      "xgrid": 1,
+      "ygrid": 4,
+      "width": 75.0
     }
   ],
    "PB2": [
     {
-      "id": 500,
-      "main": "Blue",
-      "description": "clear sky",
-      "icon": "01d"
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "xgrid": 2,
+      "ygrid": 4,
+      "width": 75.0
     }
   ],
   "base": "stations",
